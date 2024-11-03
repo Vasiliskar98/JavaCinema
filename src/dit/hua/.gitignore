@@ -1,0 +1,8 @@
+# Ignore build and output directories
+/out/
+# Ignore IDE project files
+*.iml
+.idea/
+# Ignore OS files
+.DS_Store
+
